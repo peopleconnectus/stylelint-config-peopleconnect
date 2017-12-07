@@ -1,0 +1,19 @@
+{
+  "name": "stylelint-config-peopleconnect",
+  "version": "0.0.0",
+  "description": "PeopleConnect shareable stylelint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peopleconnectus/stylelint-config-peopleconnect.git"
+  },
+  "author": "Kelly Selden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peopleconnectus/stylelint-config-peopleconnect/issues"
+  },
+  "homepage": "https://github.com/peopleconnectus/stylelint-config-peopleconnect#readme",
+  "dependencies": {
+    "stylelint-config-recommended": "^2.0.0"
+  }
+}
