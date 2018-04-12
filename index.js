@@ -14,6 +14,9 @@ module.exports = {
     'no-missing-end-of-source-newline': true,
     'max-empty-lines': 1,
     'string-quotes': 'double',
+    'property-no-unknown': [true, {
+      ignoreProperties: ['composes']
+    }],
 
     'declaration-colon-space-after': 'always',
     'declaration-colon-space-before': 'never',
