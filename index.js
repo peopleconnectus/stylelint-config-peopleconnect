@@ -17,6 +17,7 @@ module.exports = {
     'property-no-unknown': [true, {
       ignoreProperties: ['composes']
     }],
+    'length-zero-no-unit': true,
 
     'declaration-colon-space-after': 'always',
     'declaration-colon-space-before': 'never',
