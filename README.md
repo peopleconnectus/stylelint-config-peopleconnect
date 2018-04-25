@@ -2,4 +2,4 @@
 
 [![npm version](https://badge.fury.io/js/stylelint-config-peopleconnect.svg)](https://badge.fury.io/js/stylelint-config-peopleconnect)
 
-PeopleConnect shareable [stylelint](https://stylelint.io/) config
+[PeopleConnect](http://peopleconnect.us/) shareable [stylelint](https://stylelint.io/) config
