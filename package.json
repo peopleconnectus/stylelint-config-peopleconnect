@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-peopleconnect",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "description": "PeopleConnect shareable stylelint config",
   "main": "index.js",
   "repository": {
